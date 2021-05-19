@@ -1,5 +1,6 @@
 ### Hi there, I'm Julia 👋
-## I'm an undergraduate student of Information Systems 
+## Undergraduate student, Developer and Crazy about technology!
+
 - I'm currently learning Machine Learning 🤖
 
 ### Languages and Tools
