@@ -1,7 +1,7 @@
 ### Hi there, I'm Julia 👋
 ## Undergraduate student, Developer and Crazy about technology!
 
-- I'm currently learning Machine Learning 🤖
+- 🤖 I'm currently learning Machine Learning 
 
 ### Languages and Tools
 
