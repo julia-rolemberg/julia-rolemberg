@@ -2,8 +2,9 @@
 ## Undergraduate student, Developer and Crazy about technology!
 
 - 🤖 I'm currently learning Machine Learning 
+<!--
 - 📖 I’m currently working on a scientific reasearch project
-
+-->
 
 ### Languages and Tools
 
