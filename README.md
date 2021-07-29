@@ -1,4 +1,4 @@
-### Hi there, I'm Julia 👋
+### Hi there, I'm Julia
 ## Undergraduate student, Developer and Crazy about technology!
 
 - 🤖 I'm currently learning Machine Learning 
