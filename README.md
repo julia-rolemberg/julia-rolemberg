@@ -5,12 +5,7 @@
 <!--
 - 📖 I’m currently working on a scientific reasearch project
 -->
-<div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julia-rolemberg&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-rolemberg&layout=compact&langs_count=7&theme=dark&hide=jupyter%20notebook"/>
-</div>
-  
+
 ### Languages and Tools
 <div style="display: inline_block">
   <img align="center" alt="Julia-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -21,9 +16,15 @@
   <img align="center" alt="Julia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julia-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Julia-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-
-
 </div>
+
+<div><br>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julia-rolemberg&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-rolemberg&layout=compact&langs_count=7&theme=dark&hide=jupyter%20notebook"/>
+</div>
+  
+
 <!--
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-d4bd02?style=flat-square&logo=javascript&logoColor=white)
