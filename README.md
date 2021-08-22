@@ -3,6 +3,8 @@
 
 - ⭐ Co-founder and developer of [evolv·e](https://github.com/e-llo/evolv-e) 
 - 🤖 Machine Learning enthusiast
+- 👩‍🏫 SQL/Database teaching assistant 
+- 💻 Freetime Web Developer
 <!--
 - 📖 I’m currently working on a scientific reasearch project
 -->
