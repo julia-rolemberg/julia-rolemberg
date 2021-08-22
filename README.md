@@ -1,7 +1,7 @@
 ### Hi there, I'm Julia :P
 ## Undergraduate student, Developer and Crazy about technology!
 
-- ⭐ Co-founder and developer of <a href=" https://github.com/e-llo/evolv-e"> evolv·e </a>
+- ⭐ Co-founder and developer of [evolv·e](https://github.com/e-llo/evolv-e) 
 - 🤖 Machine Learning enthusiast
 <!--
 - 📖 I’m currently working on a scientific reasearch project
