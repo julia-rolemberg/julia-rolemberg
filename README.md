@@ -3,8 +3,7 @@
 
 - ⭐ Co-founder and developer of [evolv·e](https://github.com/e-llo/evolv-e) 
 - 👩‍💻 Data Engineer
-- 💻 Freetime Web Developer
-- 📖 I’m currently studying Spark and Airlflow
+- 📖 I’m currently studying Spark Streaming, Docker and K8s
 
 <!--
 
